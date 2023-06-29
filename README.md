@@ -1,5 +1,6 @@
 # 💫 About Me:
 AI with mixed reality.<br>Machine learning model creation.<br>fs<br>Mobile Development.<br>Java, Python, React.<br>2 + 2 !=4
+![coding dfa](https://github.com/poovarasan-2003/poovarasan-2003/assets/89839220/b06b37cf-161e-4937-a432-218139eab80d)
 
 
 ## 🌐 Socials:
